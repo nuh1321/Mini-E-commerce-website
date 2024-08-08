@@ -1,0 +1,99 @@
+.accordion-button{
+    background-color: #f9b116;
+}
+.accordion-item{
+    margin-bottom: 10px;
+}
+.col{
+    margin-top: 20px;
+}
+.navbar-brand{
+    font-family: "Faster One", system-ui;
+    font-size: 26px;
+}
+.footer-one h2{
+    font-family: "Josefin Sans", sans-serif;
+    margin-bottom: 30px;
+}
+
+
+.footer-one ul li {
+    list-style-type: none;
+    text-decoration: none;
+    font-family: "Josefin Sans", sans-serif;
+    padding: 6px;
+}
+.footer-one a{
+    text-decoration: none;
+    color: white;
+    transition: .7s;
+}
+.footer-one a:hover{
+    color: #f9b116;
+    transition: .7s;
+}
+/* footer 2 */
+.footer-two{
+    width: 220px;
+}
+.footer-two h2{
+    margin-bottom: 30px;
+    font-family: "Josefin Sans", sans-serif;
+}
+.icon{
+    display: flex;
+    gap: 30px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: .7s;
+}
+.icon i:hover{
+    color: #f9b116;
+    transition: .7s;
+}
+.all-footer{
+    display: flex;
+    justify-content: space-between;   
+    background-color: #252525;
+    color: white;
+    padding: 90px;
+    padding-bottom: 110px;
+    font-family: "Josefin Sans", sans-serif;
+    margin-top: 50px;
+}
+.footer-three input{
+    font-family: "Josefin Sans", sans-serif;
+    padding: 15px;
+    width: 350px;
+    background-color: #252525;
+    margin-top: 30px;
+    border: 1px solid white;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 18px;
+}
+.footer-three button{
+    padding: 20px;
+    background-color: #f9b116;
+    width: 170px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    transition: .5s;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.footer-three button:hover{
+    cursor: pointer;
+    background-color: white;
+    transition: .7s;
+    color: black;
+}
+.fns-footer p{
+    text-align: center;
+    font-family: "Josefin Sans", sans-serif;
+    margin-top: -40px;
+    color: white;
+}
